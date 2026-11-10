@@ -9,7 +9,7 @@
 **Submission date:** 9 November 2026 (America/Chicago)
 **File:** `alchemistry2027_denv2.csv` (54 rows; SHA-256 `5bea9a86678c2e7388a702c93dd20d03e89cab9941e09c40b5ed2479606804cd`)
 
-This report describes the submission already uploaded to the Alchemistry 2027 Antiviral Blind Challenge (Regression Prediction track). It is intended to serve as the public methods document required for ranking (interim deadline 15 January 2027; methods / final deadline 25 March 2027). No proprietary data were used. A public repository is not linked in this document; code is available on request.
+This report describes the submission already uploaded to the Alchemistry 2027 Antiviral Blind Challenge (Regression Prediction track). It is intended to serve as the public methods document required for ranking (interim deadline 15 January 2027; methods / final deadline 25 March 2027). No proprietary data were used. This methods report is published at https://github.com/igoreduardoai/alchemistry-2027-methods. The preparation and docking code is available on request.
 
 ## 1. Objective
 
@@ -100,11 +100,11 @@ These figures describe the reported smina scores. They are not experimental pote
 - Ligand conformer generation used `seed=42`. Docking used `seed=42`.
 - The submitted CSV is uniquely identified by SHA-256 `5bea9a86678c2e7388a702c93dd20d03e89cab9941e09c40b5ed2479606804cd` (4,418 bytes; 54 data rows plus header).
 - Box centre (−41.2, 20.0, 1.6) is the heavy-atom centroid of the reference ligand and can be recomputed from the challenge PDB.
-- A public reproduction repository is not linked yet.
+- This methods report is published at https://github.com/igoreduardoai/alchemistry-2027-methods.
 
 ## 13. Code availability
 
-Preparation and docking scripts are available on request. No public repository is linked yet. A public URL for this report or for a code repository will be added only after explicit authorization to publish.
+This methods report is published at https://github.com/igoreduardoai/alchemistry-2027-methods. Preparation and docking scripts are available on request.
 
 ## 14. Limitations
 
